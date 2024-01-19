@@ -1,4 +1,4 @@
-# فراخوانی کتابخانه رنگ ها
+# Need to install ( pip install termcolor )
 from termcolor import colored
 
 # معرفی تخته ی بازی و تعداد خانه ها
